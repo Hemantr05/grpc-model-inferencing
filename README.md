@@ -13,12 +13,12 @@ gRPC services send and receive data as Protocol Buffer (Protobuf) messages, they
 
 Let's start by setting up a virtual environment in which we can build our project: <br>
 ```
-$ python -m venv .venv
+$ conda create -n grpc-env python=3.8 -y && conda deactivate && conda activate grpc-env
 ```
 
 Then, let's install all the required packages,  <br>
 ```
-$ pip install -r requirements.txt
+$ conda install --yes --file requirements.txt
 ```
 
 ## Run server
