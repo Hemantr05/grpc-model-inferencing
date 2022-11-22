@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ## Run server
 
 ```
-$ python src/server.py
+$ python src/client.py
 ```
 
 Code from: https://blog.roboflow.com/deploy-machine-learning-models-pytorch-grpc-asyncio/
