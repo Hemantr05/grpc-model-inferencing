@@ -1,5 +1,5 @@
 grpcio
 grpcio-tools
-torch
+pytorch
 torchvision
 pillow==9.3.0
