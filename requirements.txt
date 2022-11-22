@@ -2,4 +2,4 @@ grpcio
 grpcio-tools
 pytorch
 torchvision
-pillow==9.3.0
+pillow
